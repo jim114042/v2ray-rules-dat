@@ -1,1 +1,3 @@
 supertop.co
+github.com
+githubusercontent.com
